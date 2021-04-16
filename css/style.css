@@ -1,0 +1,23 @@
+
+#navbar {
+    display: flex;
+    width: 20vw;
+    position: fixed; 
+    height: 100vh;
+}
+.nav-link {
+    position: absolute;
+    width: 100%;
+}
+.nav-link header div{
+    position: relative;
+    width: 100%;
+    height: 120px;
+    border-style: solid;
+
+
+}
+#main-doc {
+    position: absolute;
+    left: 20vw;
+}
